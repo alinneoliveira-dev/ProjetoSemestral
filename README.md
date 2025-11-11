@@ -17,7 +17,7 @@ O sistema possui duas funcionalidades principais:
 
 ## Tecnologias Utilizadas
 
-- **Linguagem:** Visual Basic / C#  - .NET Framework
+- **Linguagem:** Visual Studio / C#  - .NET Framework
 - **IDE:** Visual Studio  
 - **Banco de Dados:**  MySQL
 
