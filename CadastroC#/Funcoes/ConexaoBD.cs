@@ -8,7 +8,7 @@ namespace CadastroLogin
 {
     public class ConexaoBD
     {
-        //mysql
+        //conexão com banco de dados mysql
         private string connectionString = "Server=localhost;Database=sistema_cadastro;Uid=root;Pwd=Alinne123;";
         private MySqlConnection conexao;
 
